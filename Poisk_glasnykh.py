@@ -12,5 +12,5 @@ for i in s:
         vowels +=1
 print('Number of vowels: ' + str(vowels))
 
-    
+
     
